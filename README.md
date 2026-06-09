@@ -1,5 +1,5 @@
 # ele101yaz
 # özgeçmiş
-merhaba ****.
+merhaba .
 > bu bir alıntı.
 
