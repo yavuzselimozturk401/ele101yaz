@@ -1,5 +1,5 @@
 # ele101yaz
 # özgeçmiş
-merhaba **mimar kemal**.
+merhaba ****.
 > bu bir alıntı.
 
